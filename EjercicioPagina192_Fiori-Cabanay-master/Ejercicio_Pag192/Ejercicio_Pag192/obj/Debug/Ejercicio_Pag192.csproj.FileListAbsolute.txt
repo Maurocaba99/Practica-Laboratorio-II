@@ -1,0 +1,7 @@
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Ejercicio Pagina 192 - (Fiori-Cabanay)\Ejercicio_Pag192\Ejercicio_Pag192\bin\Debug\Ejercicio_Pag192.exe.config
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Ejercicio Pagina 192 - (Fiori-Cabanay)\Ejercicio_Pag192\Ejercicio_Pag192\bin\Debug\Ejercicio_Pag192.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Ejercicio Pagina 192 - (Fiori-Cabanay)\Ejercicio_Pag192\Ejercicio_Pag192\bin\Debug\Ejercicio_Pag192.pdb
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Ejercicio Pagina 192 - (Fiori-Cabanay)\Ejercicio_Pag192\Ejercicio_Pag192\obj\Debug\Ejercicio_Pag192.csprojAssemblyReference.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Ejercicio Pagina 192 - (Fiori-Cabanay)\Ejercicio_Pag192\Ejercicio_Pag192\obj\Debug\Ejercicio_Pag192.csproj.CoreCompileInputs.cache
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Ejercicio Pagina 192 - (Fiori-Cabanay)\Ejercicio_Pag192\Ejercicio_Pag192\obj\Debug\Ejercicio_Pag192.exe
+C:\Users\1998t\OneDrive\Escritorio\Facultad Tomas\Laboratorio II\Ejercicio Pagina 192 - (Fiori-Cabanay)\Ejercicio_Pag192\Ejercicio_Pag192\obj\Debug\Ejercicio_Pag192.pdb

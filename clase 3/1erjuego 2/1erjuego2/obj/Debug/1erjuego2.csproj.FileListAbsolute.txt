@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1erjuego 2\1erjuego2\bin\Debug\1erjuego2.exe.config
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1erjuego 2\1erjuego2\bin\Debug\1erjuego2.exe
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1erjuego 2\1erjuego2\bin\Debug\1erjuego2.pdb
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1erjuego 2\1erjuego2\obj\Debug\1erjuego2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1erjuego 2\1erjuego2\obj\Debug\1erjuego2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1erjuego 2\1erjuego2\obj\Debug\1erjuego2.exe
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1erjuego 2\1erjuego2\obj\Debug\1erjuego2.pdb

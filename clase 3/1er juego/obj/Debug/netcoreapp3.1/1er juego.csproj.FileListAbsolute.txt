@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\bin\Debug\netcoreapp3.1\1er juego.exe
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\bin\Debug\netcoreapp3.1\1er juego.deps.json
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\bin\Debug\netcoreapp3.1\1er juego.runtimeconfig.json
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\bin\Debug\netcoreapp3.1\1er juego.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\bin\Debug\netcoreapp3.1\1er juego.dll
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\bin\Debug\netcoreapp3.1\1er juego.pdb
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\obj\Debug\netcoreapp3.1\1er juego.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\obj\Debug\netcoreapp3.1\1er juego.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\obj\Debug\netcoreapp3.1\1er juego.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\obj\Debug\netcoreapp3.1\1er juego.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\obj\Debug\netcoreapp3.1\1er juego.dll
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\obj\Debug\netcoreapp3.1\1er juego.pdb
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\clase 3\1er juego\obj\Debug\netcoreapp3.1\1er juego.genruntimeconfig.cache

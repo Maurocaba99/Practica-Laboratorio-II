@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\obj\Debug\netcoreapp3.1\juegoconsola2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\obj\Debug\netcoreapp3.1\juegoconsola2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\obj\Debug\netcoreapp3.1\juegoconsola2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\obj\Debug\netcoreapp3.1\juegoconsola2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\bin\Debug\netcoreapp3.1\juegoconsola2.exe
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\bin\Debug\netcoreapp3.1\juegoconsola2.deps.json
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\bin\Debug\netcoreapp3.1\juegoconsola2.runtimeconfig.json
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\bin\Debug\netcoreapp3.1\juegoconsola2.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\bin\Debug\netcoreapp3.1\juegoconsola2.dll
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\bin\Debug\netcoreapp3.1\juegoconsola2.pdb
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\obj\Debug\netcoreapp3.1\juegoconsola2.dll
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\obj\Debug\netcoreapp3.1\juegoconsola2.pdb
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\juegoconsola2\obj\Debug\netcoreapp3.1\juegoconsola2.genruntimeconfig.cache
