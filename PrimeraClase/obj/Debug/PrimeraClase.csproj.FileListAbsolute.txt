@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\PrimeraClase\bin\Debug\PrimeraClase.exe.config
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\PrimeraClase\bin\Debug\PrimeraClase.exe
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\PrimeraClase\bin\Debug\PrimeraClase.pdb
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\PrimeraClase\obj\Debug\PrimeraClase.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\PrimeraClase\obj\Debug\PrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\PrimeraClase\obj\Debug\PrimeraClase.exe
+C:\Users\Usuario\Desktop\FACULTAD\LABORATORIO 2\PrimeraClase\obj\Debug\PrimeraClase.pdb
